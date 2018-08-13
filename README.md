@@ -1,7 +1,8 @@
 # Loan_Prediction_by_ensemble_machine_learning_techniques
-Used ensemble methods such as boosting, voting, Bagging </br>
-• Goal is to predict that weather to approve or not the loan to customer, depending on information given about customer and loan details.</br></br>
-• It includes task such as data visualization, cleaning and transformation,feature engineering.</br>
-• used binary classification algorithms like decision tree with prior probabilities, loss matrix, Logistic Regression.</br>
-• R is used for programming language and RStudio as tool.</br>
-• library used are gmodels,rpart,caTools,ggplot2.</br>
+•The goal is predict status of customer using loan and customer information.<br/>•It
+includes tasks such as data visualization, cleaning, transformation, feature
+engineering. <br/>•The ensemble learning techniques such as voting, boosting,
+bagging are used. <br/>•In this case in voting decision tree, logistic regression,
+support vector machine are used as base learners. <br/>•The random forest
+(bagging), Gradient boosting (boosting) are used, voting method gives better
+performance. <br/>•Libraries used are sklearn, matplotlib, pandas, and numpy.
